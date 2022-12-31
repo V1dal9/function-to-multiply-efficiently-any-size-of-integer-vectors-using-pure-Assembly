@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Utilizador\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'unsigned __int64'
+C:\Users\Utilizador\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,9): message : considere usar '%lld' na cadeia de formato
+C:\Users\Utilizador\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,9): message : considere usar '%I64d' na cadeia de formato
+  ConsoleApplication1.vcxproj -> C:\Users\Utilizador\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
